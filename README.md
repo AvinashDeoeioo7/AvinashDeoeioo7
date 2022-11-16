@@ -1,10 +1,8 @@
-- 👋 Hi, I’m @AvinashDeoeioo7
+- 👋 Hi, I’m @AvinashDeori
 - 👀 I’m interested in learing coding
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
+- 🌱 I’m currently learning  C/C++,Python,Webdevelopment.
+- 📫 How to reach me ig @_avinash_d_
 <!---
-AvinashDeoeioo7/AvinashDeoeioo7 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+AvinashDeori/AvinashDeoei is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
