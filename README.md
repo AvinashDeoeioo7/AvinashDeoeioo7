@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @AvinashDeori
-- 👀 I’m interested in learing coding
+- 👀 I’m interested in programming, coding,video editing and stock marketing.
 - 🌱 I’m currently learning  C/C++,Python,Webdevelopment.
 - 📫 How to reach me ig @_avinash_d_
 <!---
